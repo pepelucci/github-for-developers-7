@@ -4,3 +4,4 @@
 - **Come from**: Stockholm
 - **Favorite food**: Pizza
 - **Hobby**: Football
+- **Favorite color**: Red
