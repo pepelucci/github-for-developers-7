@@ -5,3 +5,4 @@
 - **Favorite food**: Pizza
 - **Hobby**: Football
 - **Favorite color**: Red
+- **Favorite suject**: English 
